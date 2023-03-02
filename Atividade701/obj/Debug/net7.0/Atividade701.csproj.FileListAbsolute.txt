@@ -1,0 +1,15 @@
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\bin\Debug\net7.0\Atividade701.exe
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\bin\Debug\net7.0\Atividade701.deps.json
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\bin\Debug\net7.0\Atividade701.runtimeconfig.json
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\bin\Debug\net7.0\Atividade701.dll
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\bin\Debug\net7.0\Atividade701.pdb
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\Atividade701.csproj.AssemblyReference.cache
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\Atividade701.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\Atividade701.AssemblyInfoInputs.cache
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\Atividade701.AssemblyInfo.cs
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\Atividade701.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\Atividade701.dll
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\refint\Atividade701.dll
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\Atividade701.pdb
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\Atividade701.genruntimeconfig.cache
+C:\Users\Henrique Monteiro\Desktop\Atividade-Extensiva\Atividade701\obj\Debug\net7.0\ref\Atividade701.dll
